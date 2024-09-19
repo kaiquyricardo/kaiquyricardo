@@ -19,4 +19,4 @@ and I try to learn more every day.
 <code><img height="30" src="https://img.shields.io/badge/GitHub_Desktop-gray?style=for-the-badge&logo=github&logoColor=purple"></code>
 
 ### 🍷 Chat with me over here!
-[![Discord Presence](https://lanyard.cnrad.dev/api/284088374690709514)](https://discord.com/users/284088374690709514)
+[![Discord Presence](https://lanyard.cnrad.dev/api/284088374690709515)](https://discord.com/users/284088374690709515)
