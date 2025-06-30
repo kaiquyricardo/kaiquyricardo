@@ -1,22 +1,31 @@
+<img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" width="400px" align="right" alt="Computer">
 
+## 🎩 About me
 
-<img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" min-width="200px" max-width="200px" width="400px" align="right" alt="Computer">
+Hey! I'm **Kaiquy**, I'm 20 years old and most of my time is spent coding in **Java**, always trying to learn and improve every day.
 
-### 🎩 About me:
+---
 
-My name is Kaiquy, I'm 18 years old and most of the time
-I spend developing in Java
-and I try to learn more every day.
+## 🛠️ Technologies I work with
 
-### :clipboard: Technologies:
+<div style="display: inline_block">
+  <img height="30" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+</div>
 
-<code><img height="30" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/MySQL-007396?style=for-the-badge&logo=java&logoColor=white"></code>
+---
 
-### 🚀 Programs I use in my projects.
+## 🚀 Tools I use daily
 
-<code><img height="30" src="https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellij-idea&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/GitHub_Desktop-gray?style=for-the-badge&logo=github&logoColor=purple"></code>
+<div style="display: inline_block">
+  <img height="30" src="https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/GitHub_Desktop-24292F?style=for-the-badge&logo=github&logoColor=white">
+</div>
 
-### 🍷 Chat with me over here!
+---
+
+## 🍷 Let's connect!
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/284088374690709514)](https://discord.com/users/284088374690709514)
